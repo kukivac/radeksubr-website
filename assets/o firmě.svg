@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1545.017" height="557.393" viewBox="0 0 1545.017 557.393">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1.429" x2="0.499" y2="-1.279" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.026" stop-color="#edf8fc"/>
+      <stop offset="0.125" stop-color="#b1e0f5"/>
+      <stop offset="0.219" stop-color="#7fccef"/>
+      <stop offset="0.308" stop-color="#58bcea"/>
+      <stop offset="0.389" stop-color="#3cb1e6"/>
+      <stop offset="0.46" stop-color="#2baae4"/>
+      <stop offset="0.513" stop-color="#26a8e4"/>
+    </linearGradient>
+  </defs>
+  <g id="o_firmě" data-name="o firmě" transform="translate(-578 -814)">
+    <path id="Path_184" data-name="Path 184" d="M545.335,540.373l-665.392,557.393H1424.96L675.75,540.373Z" transform="translate(698.057 273.627)" opacity="0.26" fill="url(#linear-gradient)" style="isolation: isolate"/>
+    <text id="O_FIRMĚ-2" data-name="O FIRMĚ" transform="translate(1082 1078)" fill="#707070" font-size="49" font-family="WorkSans-Bold, Work Sans" font-weight="700" letter-spacing="0.11em"><tspan x="0" y="0">O FIRMĚ</tspan></text>
+    <text id="Hlavní_činností_naší_společnosti_jsou_elektromontáže_při_kterých_nabízíme_kompletní_paletu_služeb._V_rámci_této_činnosti_provádíme_svým_klientům_slaboproudou_i_silnoproudou_elektroinstalaci_při_které_využíváme_dlouholetých_zkušeností_získaných_z_mnoha_př" data-name="Hlavní činností naší společnosti jsou elektromontáže, při kterých nabízíme kompletní paletu služeb. V rámci této činnosti provádíme svým klientům slaboproudou i silnoproudou elektroinstalaci, při které využíváme dlouholetých zkušeností získaných z mnoha př" transform="translate(1082 1117)" fill="#707070" font-size="19" font-family="WorkSans-Regular, Work Sans" letter-spacing="0.066em"><tspan x="0" y="18">Hlavní činností naší společnosti jsou elektromontáže, při </tspan><tspan x="0" y="41">kterých nabízíme kompletní paletu služeb. V rámci této </tspan><tspan x="0" y="64">činnosti provádíme svým klientům slaboproudou i </tspan><tspan x="0" y="87">silnoproudou elektroinstalaci, při které využíváme </tspan><tspan x="0" y="110">dlouholetých zkušeností získaných z mnoha předchozích </tspan><tspan x="0" y="133">zakázek.</tspan></text>
+  </g>
+</svg>

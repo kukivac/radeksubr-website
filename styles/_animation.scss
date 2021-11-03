@@ -1,0 +1,67 @@
+.slide-down {
+    animation-name: slide-down;
+    animation-timing-function: linear;
+}
+
+.slide-down:nth-child(1) {
+    animation-duration: 5500ms;
+}
+
+.slide-down:nth-child(2) {
+    animation-duration: 5000ms;
+}
+
+.slide-down:nth-child(3) {
+    animation-duration: 4500ms;
+}
+
+.slide-down:nth-child(4) {
+    animation-duration: 4200ms;
+}
+
+@keyframes slide-down {
+    0% {
+        transform: translateY(-800px);
+        animation-timing-function: linear;
+    }
+
+    50% {
+        transform: translateY(-700px);
+        animation-timing-function: linear;
+    }
+
+    70% {
+        transform: translateY(0px);
+        animation-timing-function: linear;
+    }
+
+    75% {
+        transform: translateY(-45px);
+        animation-timing-function: ease-in-out;
+    }
+
+    80% {
+        transform: translateY(0px);
+        animation-timing-function: ease-in-out;
+    }
+
+    85% {
+        transform: translateY(-20px);
+        animation-timing-function: ease-in-out;
+    }
+
+    90% {
+        transform: translateY(0px);
+        animation-timing-function: ease-in-out;
+    }
+
+    95% {
+        transform: translateY(-6px);
+        animation-timing-function: ease-in-out;
+    }
+
+    100% {
+        transform: translateY(0px);
+        animation-timing-function: ease-in-out;
+    }
+}

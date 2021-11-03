@@ -1,0 +1,37 @@
+#sluzby-section {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    min-height: 500px;
+}
+
+#sluzby-section h2 {
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+
+#sluzby-section h3 {
+    margin-bottom: 18px;
+}
+
+#sluzby-section>section {
+    display: flex;
+}
+
+#sluzby-section>section>section {
+    margin: 30px;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    text-align: center;
+}
+
+@media screen and (max-width: 850px) {
+    #sluzby-section>section {
+        display: flex;
+        flex-flow: column;
+    }
+    #sluzby-section h2 {
+        margin-bottom:0px;
+    }
+}

@@ -1,0 +1,96 @@
+@use "animation";
+@use "collapsible";
+@use "contact";
+@use "firma";
+@use "sluzby";
+@use "uvod";
+@font-face {
+    font-family: 'WorkSansBold';
+    src: url('../../fonts/WorkSans-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'WorkSansRegular';
+    src: url('../../fonts/WorkSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    font-family: "WorkSansRegular";
+    color: #707070;
+    font-size: 19px;
+    overflow-x: hidden;
+}
+
+.main-section {
+    max-width: 1920px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "WorkSansBold";
+    letter-spacing: 3px;
+    margin: 0;
+}
+
+h1 {
+    font-size: 66px;
+}
+
+h2 {
+    font-size: 49px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: unset;
+}
+
+.logo-color-blue {
+    color: #26A8E4;
+}
+.nav-link{
+    font-family: "WorkSansBold";
+}
+@media screen and (max-width: 1400px) {
+    h1 {
+        font-size: 2em;
+    }
+    
+    h2 {
+        font-size: 2em;
+    }
+    
+    h3 {
+        font-size: 22px;
+    }
+}
+@media screen and (max-width: 600px) {
+    h2 {
+        font-size: 26px;
+    }
+
+    h1 {
+        font-size: 27px;
+    }
+
+    body {
+        font-size: 16px;
+    }
+}

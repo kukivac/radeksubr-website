@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="527" height="423" viewBox="0 0 527 423">
+  <defs>
+    <filter id="Rectangle_2" x="240" y="346" width="216" height="77" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Uvod" transform="translate(-170 -362)">
+    <g id="button" transform="translate(-270 80)">
+      <g id="Rectangle_2-2" data-name="Rectangle 2" transform="translate(440 634)" fill="#26a8e4" stroke="#26a8e4" stroke-width="1">
+        <rect width="198" height="59" rx="29.5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="197" height="58" rx="29" fill="none"/>
+      </g>
+      <text id="KONTAKT" transform="translate(486 672)" fill="#fff" stroke="#26a8e4" stroke-width="1" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.11em"><tspan x="0" y="0">KONTAKT</tspan></text>
+    </g>
+    <g id="button-2" data-name="button" transform="translate(-24 80)">
+      <g transform="matrix(1, 0, 0, 1, 194, 282)" filter="url(#Rectangle_2)">
+        <rect id="Rectangle_2-3" data-name="Rectangle 2" width="198" height="59" rx="29.5" transform="translate(246 352)" fill="#f1f1f1"/>
+      </g>
+      <text id="NAŠE_SLUŽBY" data-name="NAŠE SLUŽBY" transform="translate(464 672)" fill="#707070" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.11em"><tspan x="0" y="0">NAŠE SLUŽBY</tspan></text>
+    </g>
+    <g id="uvod-2" data-name="uvod" transform="translate(12 88)">
+      <text id="ELEKTRO_JE_NÁŠ_SVĚT" data-name="ELEKTRO JE 
+NÁŠ SVĚT" transform="translate(158 335)" fill="#707070" font-size="66" font-family="WorkSans-Bold, Work Sans" font-weight="700" letter-spacing="0.066em"><tspan x="0" y="0">ELEKTRO JE </tspan><tspan x="0" y="77">NÁŠ </tspan><tspan y="77" fill="#26a8e4">SVĚT</tspan></text>
+      <text id="Naší_snahou_a_zároveň_cílem_je_poskytovat_elektro_rozvody_na_vysoké_kvalitativní_úrovni._Tento_cíl_plníme_společně_se_snahou_udržovat_ceny_našich_služeb_na_rozumné_hladině._" data-name="Naší snahou a zároveň cílem je poskytovat elektro rozvody na vysoké kvalitativní úrovni. Tento cíl plníme společně se snahou udržovat ceny našich služeb na rozumné hladině.
+" transform="translate(158 498)" fill="#707070" font-size="19" font-family="WorkSans-Regular, Work Sans" letter-spacing="0.066em"><tspan x="0" y="18">Naší snahou a zároveň cílem je poskytovat </tspan><tspan x="0" y="41">elektro rozvody na vysoké kvalitativní úrovni. </tspan><tspan x="0" y="64">Tento cíl plníme společně se snahou udržovat </tspan><tspan x="0" y="87">ceny našich služeb na rozumné hladině.</tspan></text>
+    </g>
+  </g>
+</svg>
